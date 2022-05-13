@@ -1,7 +1,7 @@
 # Estrutua-de-dados1
 
 #####
-Tudo aprendido na matéria estrutua de dados 1 na minha faculdade 
+Tudo aprendido na matéria estrutura de dados 1 na minha faculdade 
 ####
 Vale enfatizar que existe alguns erros , não está tudo perfeito 
 ####
