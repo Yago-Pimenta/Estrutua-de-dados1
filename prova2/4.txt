@@ -1,0 +1,20 @@
+solução alternativa
+//convém ressaltar que é possível fazer com um while só , mas por questão de organização deixei em dois
+        //a condição mais básica é o primeiro elemento ser maior que todos 
+        
+   /*     int maior = V[0];
+        for(int i=0;i<LastPosition-1;i++){
+            if(maior < V[i]){
+                return false ;
+                break;
+            }
+        }
+        //Agora basta comparar se todas as folhas tem um pai maior do que ela mesma
+        //estamos falando que i = 1 pois ja testamos i=0
+        for(int i=1;i<LastPosition-1;i++){
+            int folha = V[i];
+            if(V[i]>V[pai(i)]){
+                return false;
+                break;
+            }
+        }*/

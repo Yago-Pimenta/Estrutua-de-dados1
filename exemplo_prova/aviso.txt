@@ -1,0 +1,6 @@
+Fazer uma lista cadastral NAO circular duplamente encadeadas , importantissimo para estudar
+
+
+Para Prova : Nao precisa ficar implemetnando tudo e nem fica testando 
+ja partir direto para o que se pede , desenhar antes de Fazer
+fazer rapido para dar tempo 
